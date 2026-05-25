@@ -1,0 +1,164 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #eef4ff, #f8fbff);
+    color: #333;
+    scroll-behavior: smooth;
+}
+
+/* Navbar */
+.custom-navbar {
+    background: #0d6efd;
+    padding: 15px 0;
+}
+
+.navbar-brand {
+    font-size: 1.4rem;
+}
+
+/* Hero Section */
+.hero-section {
+    padding: 100px 20px;
+    text-align: center;
+}
+
+.main-title {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #0d1b2a;
+    margin-bottom: 20px;
+}
+
+.hero-text {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin: auto;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+.start-btn {
+    background: #0d6efd;
+    color: white;
+    padding: 12px 30px;
+    border-radius: 50px;
+    transition: 0.3s ease;
+}
+
+.start-btn:hover {
+    transform: scale(1.05);
+    background: #0b5ed7;
+    color: white;
+}
+
+/* Form Section */
+.form-section {
+    padding: 50px 20px 80px;
+}
+
+.form-card {
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    transition: 0.3s ease;
+}
+
+.form-card:hover {
+    transform: translateY(-5px);
+}
+
+.form-label {
+    font-weight: 600;
+}
+
+.form-control,
+.form-select {
+    border-radius: 10px;
+    padding: 12px;
+}
+
+.predict-btn {
+    background: #198754;
+    color: white;
+    padding: 12px 35px;
+    border-radius: 50px;
+    font-size: 1rem;
+    transition: 0.3s ease;
+}
+
+.predict-btn:hover {
+    background: #157347;
+    transform: scale(1.05);
+    color: white;
+}
+
+/* Result Card */
+.result-card {
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+.result-card h3 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.result-card p {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.low-risk {
+    background: #198754;
+}
+
+.medium-risk {
+    background: #ffc107;
+    color: #222;
+}
+
+.high-risk {
+    background: #dc3545;
+}
+
+/* Footer */
+.footer-section {
+    background: #0d1b2a;
+    color: white;
+    padding: 25px 0;
+}
+
+.footer-section p {
+    margin: 5px;
+}
+
+/* Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+
+    .main-title {
+        font-size: 2rem;
+    }
+
+    .hero-text {
+        font-size: 1rem;
+    }
+
+    .form-card {
+        padding: 25px;
+    }
+}

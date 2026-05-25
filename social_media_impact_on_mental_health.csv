@@ -1,0 +1,51 @@
+usage_level,cyberbullying_exposure,mental_health_effects,anxiety,low_self_esteem,social_connection,positive_self_image,depression,social_isolation,mental_health_effect
+2,False,"{'anxiety': 1.0, 'low_self_esteem': 0.6}",1.0,0.6,0.1,0.1,0.0,0.0,4.6
+0,False,"{'social_connection': 0.0, 'positive_self_image': 0.0}",0.0,0.0,0.0,0.0,0.0,0.0,5.0
+2,False,"{'anxiety': 1.0, 'low_self_esteem': 0.6}",1.0,0.6,0.1,0.1,0.0,0.0,4.6
+2,True,"{'depression': 1.4, 'social_isolation': 1.0}",0.0,0.0,0.1,0.1,1.4,1.0,3.62
+0,True,"{'anxiety': 0.0, 'low_self_esteem': 0.0, 'depression': 0.0, 'social_isolation': 0.0, 'social_connection': 0.0, 'positive_self_image': 0.0}",0.0,0.0,0.0,0.0,0.0,0.0,5.0
+0,True,"{'anxiety': 0.0, 'low_self_esteem': 0.0, 'depression': 0.0, 'social_isolation': 0.0}",0.0,0.0,0.1,0.1,0.0,0.0,5.0
+2,True,"{'anxiety': 2.0, 'low_self_esteem': 1.2, 'depression': 1.4, 'social_isolation': 1.0}",2.0,1.2,0.1,0.1,1.4,1.0,2.6199999999999997
+1,False,"{'social_connection': 0.2, 'positive_self_image': 0.1}",0.0,0.0,0.2,0.1,0.0,0.0,5.0
+2,True,"{'anxiety': 2.0, 'low_self_esteem': 1.2, 'depression': 1.4, 'social_isolation': 1.0}",2.0,1.2,0.1,0.1,1.4,1.0,2.6199999999999997
+2,True,"{'anxiety': 2.0, 'low_self_esteem': 1.2, 'depression': 1.4, 'social_isolation': 1.0}",2.0,1.2,0.1,0.1,1.4,1.0,2.6199999999999997
+2,True,"{'anxiety': 1.0, 'low_self_esteem': 0.6, 'depression': 1.4, 'social_isolation': 1.0}",1.0,0.6,0.1,0.1,1.4,1.0,3.1199999999999997
+2,True,"{'depression': 1.4, 'social_isolation': 1.0}",0.0,0.0,0.1,0.1,1.4,1.0,3.62
+0,True,"{'anxiety': 0.0, 'low_self_esteem': 0.0, 'depression': 0.0, 'social_isolation': 0.0}",0.0,0.0,0.1,0.1,0.0,0.0,5.0
+2,False,"{'anxiety': 1.0, 'low_self_esteem': 0.6}",1.0,0.6,0.1,0.1,0.0,0.0,4.6
+1,True,"{'anxiety': 0.5, 'low_self_esteem': 0.3, 'depression': 0.7, 'social_isolation': 0.5, 'social_connection': 0.2, 'positive_self_image': 0.1}",0.5,0.3,0.2,0.1,0.7,0.5,4.159999999999999
+0,False,"{'anxiety': 0.0, 'low_self_esteem': 0.0}",0.0,0.0,0.1,0.1,0.0,0.0,5.0
+1,True,"{'anxiety': 0.5, 'low_self_esteem': 0.3, 'depression': 0.7, 'social_isolation': 0.5, 'social_connection': 0.2, 'positive_self_image': 0.1}",0.5,0.3,0.2,0.1,0.7,0.5,4.159999999999999
+1,False,"{'anxiety': 0.5, 'low_self_esteem': 0.3, 'social_connection': 0.2, 'positive_self_image': 0.1}",0.5,0.3,0.2,0.1,0.0,0.0,4.8999999999999995
+1,True,"{'anxiety': 0.5, 'low_self_esteem': 0.3, 'depression': 0.7, 'social_isolation': 0.5}",0.5,0.3,0.1,0.1,0.7,0.5,4.109999999999999
+1,True,"{'depression': 0.7, 'social_isolation': 0.5}",0.0,0.0,0.1,0.1,0.7,0.5,4.359999999999999
+0,False,"{'anxiety': 0.0, 'low_self_esteem': 0.0, 'social_connection': 0.0, 'positive_self_image': 0.0}",0.0,0.0,0.0,0.0,0.0,0.0,5.0
+0,False,"{'anxiety': 0.0, 'low_self_esteem': 0.0, 'social_connection': 0.0, 'positive_self_image': 0.0}",0.0,0.0,0.0,0.0,0.0,0.0,5.0
+1,False,"{'anxiety': 0.5, 'low_self_esteem': 0.3, 'social_connection': 0.2, 'positive_self_image': 0.1}",0.5,0.3,0.2,0.1,0.0,0.0,4.8999999999999995
+1,True,"{'anxiety': 0.5, 'low_self_esteem': 0.3, 'depression': 0.7, 'social_isolation': 0.5, 'social_connection': 0.2, 'positive_self_image': 0.1}",0.5,0.3,0.2,0.1,0.7,0.5,4.159999999999999
+0,False,"{'anxiety': 0.0, 'low_self_esteem': 0.0, 'social_connection': 0.0, 'positive_self_image': 0.0}",0.0,0.0,0.0,0.0,0.0,0.0,5.0
+0,True,"{'anxiety': 0.0, 'low_self_esteem': 0.0, 'depression': 0.0, 'social_isolation': 0.0, 'social_connection': 0.0, 'positive_self_image': 0.0}",0.0,0.0,0.0,0.0,0.0,0.0,5.0
+0,True,"{'anxiety': 0.0, 'low_self_esteem': 0.0, 'depression': 0.0, 'social_isolation': 0.0}",0.0,0.0,0.1,0.1,0.0,0.0,5.0
+2,False,"{'anxiety': 2.0, 'low_self_esteem': 1.2}",2.0,1.2,0.1,0.1,0.0,0.0,4.1
+2,False,"{'anxiety': 2.0, 'low_self_esteem': 1.2}",2.0,1.2,0.1,0.1,0.0,0.0,4.1
+2,True,"{'anxiety': 1.0, 'low_self_esteem': 0.6, 'depression': 1.4, 'social_isolation': 1.0}",1.0,0.6,0.1,0.1,1.4,1.0,3.1199999999999997
+1,True,"{'anxiety': 1.0, 'low_self_esteem': 0.6, 'depression': 0.7, 'social_isolation': 0.5, 'social_connection': 0.2, 'positive_self_image': 0.1}",1.0,0.6,0.2,0.1,0.7,0.5,3.9099999999999997
+2,False,{},0.0,0.0,0.1,0.1,0.0,0.0,5.0
+1,False,"{'anxiety': 0.5, 'low_self_esteem': 0.3, 'social_connection': 0.2, 'positive_self_image': 0.1}",0.5,0.3,0.2,0.1,0.0,0.0,4.8999999999999995
+1,False,"{'social_connection': 0.2, 'positive_self_image': 0.1}",0.0,0.0,0.2,0.1,0.0,0.0,5.0
+2,True,"{'depression': 1.4, 'social_isolation': 1.0}",0.0,0.0,0.1,0.1,1.4,1.0,3.62
+1,True,"{'anxiety': 0.5, 'low_self_esteem': 0.3, 'depression': 0.7, 'social_isolation': 0.5, 'social_connection': 0.2, 'positive_self_image': 0.1}",0.5,0.3,0.2,0.1,0.7,0.5,4.159999999999999
+2,True,"{'anxiety': 2.0, 'low_self_esteem': 1.2, 'depression': 1.4, 'social_isolation': 1.0}",2.0,1.2,0.1,0.1,1.4,1.0,2.6199999999999997
+2,True,"{'depression': 1.4, 'social_isolation': 1.0}",0.0,0.0,0.1,0.1,1.4,1.0,3.62
+0,True,"{'anxiety': 0.0, 'low_self_esteem': 0.0, 'depression': 0.0, 'social_isolation': 0.0, 'social_connection': 0.0, 'positive_self_image': 0.0}",0.0,0.0,0.0,0.0,0.0,0.0,5.0
+2,True,"{'depression': 1.4, 'social_isolation': 1.0}",0.0,0.0,0.1,0.1,1.4,1.0,3.62
+0,False,{},0.0,0.0,0.1,0.1,0.0,0.0,5.0
+2,True,"{'depression': 1.4, 'social_isolation': 1.0}",0.0,0.0,0.1,0.1,1.4,1.0,3.62
+2,True,"{'depression': 1.4, 'social_isolation': 1.0}",0.0,0.0,0.1,0.1,1.4,1.0,3.62
+0,True,"{'anxiety': 0.0, 'low_self_esteem': 0.0, 'depression': 0.0, 'social_isolation': 0.0, 'social_connection': 0.0, 'positive_self_image': 0.0}",0.0,0.0,0.0,0.0,0.0,0.0,5.0
+0,False,{},0.0,0.0,0.1,0.1,0.0,0.0,5.0
+2,True,"{'depression': 1.4, 'social_isolation': 1.0}",0.0,0.0,0.1,0.1,1.4,1.0,3.62
+1,True,"{'depression': 0.7, 'social_isolation': 0.5}",0.0,0.0,0.1,0.1,0.7,0.5,4.359999999999999
+0,False,"{'anxiety': 0.0, 'low_self_esteem': 0.0, 'social_connection': 0.0, 'positive_self_image': 0.0}",0.0,0.0,0.0,0.0,0.0,0.0,5.0
+1,True,"{'depression': 0.7, 'social_isolation': 0.5, 'social_connection': 0.2, 'positive_self_image': 0.1}",0.0,0.0,0.2,0.1,0.7,0.5,4.409999999999999
+1,True,"{'depression': 0.7, 'social_isolation': 0.5, 'social_connection': 0.2, 'positive_self_image': 0.1}",0.0,0.0,0.2,0.1,0.7,0.5,4.409999999999999
